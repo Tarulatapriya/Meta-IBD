@@ -1,0 +1,19 @@
+{
+    "num_input_files": 4,
+    "metabolites_per_file": {
+        "MSdata_ST000923_1.txt": 178,
+        "MSdata_ST000923_2.txt": 116,
+        "MSdata_ST000923_3.txt": 92,
+        "MSdata_ST000923_4.txt": 214
+    },
+    "total_metabolites": 600,
+    "num_samples": 546,
+    "num_cd_samples": 266,
+    "num_uc_samples": 146,
+    "num_nonibd_samples": 134,
+    "num_female_samples": 270,
+    "num_male_samples": 276,
+    "duplicate_metabolite_names": 92,
+    "duplicate_sample_ids": 0,
+    "total_missing_values": 30396
+}

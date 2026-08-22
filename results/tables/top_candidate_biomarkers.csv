@@ -1,0 +1,480 @@
+Metabolite_name,Mean_Absolute_SHAP
+putrescine,0.5363075
+phenyllactate,0.5035935
+adrenate,0.39838886
+hydrocinnamate,0.35033587
+C18:1 LPC plasmalogen,0.32300717
+hydroxycotinine,0.30935642
+C24:1 Ceramide (d18:1),0.30326015
+C34:1 PC plasmalogen,0.2706023
+pyridoxine,0.26427707
+tetradecanedioate,0.25412163
+ethyl glucuronide,0.24108878
+nicotinate,0.23443875
+C20:5 CE,0.23248649
+cinnamoylglycine,0.20796461
+5-dodecenoate,0.20255935
+C34:0 PC,0.19460416
+homovanillate,0.18970303
+caproate,0.18906488
+acetyl-galactosamine,0.16692667
+cholate,0.15991223
+pantothenate,0.15486541
+4-hydroxystyrene,0.15322487
+hydroxymyristate,0.13404058
+trigonelline,0.1267031
+cytosine,0.12594378
+phenylacetate,0.12169751
+stearate,0.11697203
+anserine,0.11677737
+glycoursodeoxycholate,0.11240812
+C18:3 LPC,0.108583264
+carboxyibuprofen,0.10356377
+C34:0 PE,0.103002585
+C44:1 TAG [M+NH4]+,0.10072838
+1-methylguanosine,0.10070691
+9.10-diHOME,0.091137104
+acetaminophen,0.088513345
+C34:4 PC plasmalogen,0.08565322
+C16:1 MAG,0.08412058
+1-methylguanine,0.08026997
+C2 Ceramide (d18:1),0.07942527
+C56:7 TAG,0.07895839
+ribothymidine,0.07875429
+glycerate,0.07822521
+sphinganine,0.077631354
+ectoine,0.076355755
+N-acetylglutamate,0.07351475
+beta-sitosterol,0.07253831
+choline,0.071315646
+beta-guanidinopropionic acid,0.06698156
+C18:0 CE,0.06671502
+3-methylhistidine,0.06671085
+N1-methyl-2-pyridone-5-carboxamide,0.06581135
+gemfibrozil,0.06568846
+4-hydroxybenzeneacetonitrile,0.06271902
+methylimidazole acetic acid,0.06224586
+C2 carnitine,0.06191161
+p-hydroxyphenylacetate,0.061160356
+alpha-muricholate,0.06072508
+linoleoyl ethanolamide,0.059249096
+urobilin,0.058167804
+docosapentaenoate,0.058067426
+3-hydroxyoctanoate,0.055990536
+caffeine,0.05559863
+carnosol,0.053827357
+adipate,0.050343577
+palmitate,0.047792096
+gentisate,0.047320742
+hippurate,0.047279548
+C18:1 carnitine,0.047014114
+ascorbate,0.046473794
+S-methylcysteine-S-oxide,0.046280906
+pterin,0.045399107
+C34:2 PC plasmalogen,0.04417217
+C56:6 TAG [M+NH4]+,0.043739624
+C36:5 PC plasmalogen,0.043639634
+C14:0 CE,0.04289465
+C36:2 PC plasmalogen,0.04229357
+3^-O-methyladenosine,0.041531175
+metronidazole,0.041387696
+alpha-ketoglutarate,0.04133021
+N-acetyalanine,0.041283842
+imidazolelactate,0.040637743
+C34:3 PC,0.039445605
+C50:0 TAG [M+NH4]+,0.038318533
+C32:2 DAG,0.037974473
+N-methylproline,0.037166826
+4-aminophenol,0.03682773
+2-aminoadipate,0.03657035
+4-pyridoxate,0.034637287
+dimethylglycine,0.03455591
+niacinamide,0.034471165
+C30:0 PC,0.034235463
+nervonic acid,0.0337542
+C16:1 SM,0.03347125
+uracil,0.03264221
+salicylate,0.03241594
+C16:0 Ceramide (d18:1),0.031575833
+norepinephrine,0.03132817
+C30:0 DAG,0.030760681
+acetylalanine,0.03056134
+C22:1 MAG,0.030455178
+dodecanedioate,0.030007262
+C52:0 TAG [M+NH4]+,0.029302623
+C32:0 DAG,0.028986754
+C52:2 TAG,0.028732184
+C52:1 TAG,0.028491093
+C46:3 TAG,0.028480746
+C22:6 LPE,0.02830229
+ADMA/SDMA,0.028065665
+C51:0 TAG [M+NH4]+,0.027804289
+C18:1 LPE,0.027642697
+C22:1 SM,0.027545782
+C10:2 carnitine,0.027444964
+fructose/glucose/galactose,0.027435098
+metformin,0.027288675
+docosahexaenoate,0.027245553
+linoleoylethanolamide,0.027243316
+beta-alanine,0.027027598
+4-nitrophenol,0.026853547
+3-methylglutaconate,0.0267533
+2-aminoheptanoic acid,0.026716398
+C20:4 CE,0.026639245
+indole-3-propionate,0.026634492
+C18:2 CE [M+NH4]+,0.02659673
+C36:0 DAG [M+NH4]+,0.02658756
+C20 carnitine,0.026392091
+lactose,0.025951507
+N-acetylornithine,0.025787123
+mandelate,0.025386669
+5-acetylamino-6-amino-3-methyluracil,0.025381992
+biliverdin,0.025305005
+C34:3 DAG,0.025190208
+saccharin,0.025011327
+N-acetylglutamine,0.024934988
+C36:4 DAG,0.02443485
+C38:5 DAG [M+NH4]+,0.024111912
+5-hydroxytryptophan,0.023997024
+N-acetylputrescine,0.02388791
+C46:0 TAG,0.023770314
+C51:3 TAG,0.023419462
+homoarginine,0.022782287
+alpha-CEHC,0.02271299
+2-aminobutyrate,0.022574076
+10-heptadecenoate,0.022461338
+C36:4 PC plasmalogen,0.022400104
+pentadecanoate,0.02218107
+tryptophan,0.02210523
+urate,0.022104701
+C20:3 CE [M+NH4]+,0.022048032
+indoleacetate,0.021983782
+C16 carnitine,0.021887287
+C22:0 Ceramide (d18:1),0.021823652
+C24:1 SM,0.021782132
+4-methylcatechol,0.021698805
+taurine,0.021692017
+C51:1 TAG,0.021678915
+C18:0 CE [M+NH4]+,0.0209745
+7-methylxanthine,0.020688187
+C18:2 carnitine,0.020634227
+C52:5 TAG [M+NH4]+,0.020574244
+N-acetylhistidine,0.02008332
+1-methylnicotinamide,0.01943676
+21-deoxycortisol,0.01913062
+C54:5 TAG,0.018846398
+palmitoleate,0.018748887
+C36:4 PC-B,0.018684277
+C54:1 TAG,0.018611306
+oxypurinol,0.018522648
+C18:0 LPE-A,0.018438915
+eicosapentaenoate,0.018321335
+alanine,0.018048974
+C18:1 SM,0.017127112
+C36:4 DAG [M+NH4]+,0.016361544
+methionine,0.016092574
+trimethylbenzene,0.015830144
+myristoleate,0.015768548
+alloisoleucine,0.01516284
+C54:3 TAG [M+NH4]+,0.0151318405
+citrate,0.013246731
+C52:0 TAG,0.013243152
+C48:1 TAG,0.012818421
+deoxycholate,0.01277994
+C32:2 DAG [M+NH4]+,0.012547566
+biotin,0.012525045
+serine,0.012342998
+creatine,0.012137494
+diaminopimelate,0.012135483
+kynurenic acid,0.011931915
+C36:0 DAG,0.011616227
+phenylacetylglutamine,0.011475175
+imidazoleacetic acid,0.0112670865
+13-cis-retinoic acid,0.01118396
+C54:6 TAG,0.01103769
+inosine,0.009843125
+12.13-diHOME,0.009708628
+orotate,0.009669038
+2-hydroxy-3-methylbutyrate,0.009393657
+gabapentin,0.0092657665
+C20:5 LPC,0.008952624
+C20:1 LPC,0.008868625
+guanosine,0.008610949
+C18:2 LPE,0.007848422
+imidazole propionate,0.0070254207
+C49:1 TAG [M+NH4]+,0.0070129344
+C44:2 TAG,0.0064351526
+13-docosenoate,0.0058284122
+lithocholate,0.0057447893
+C24:0 SM,0.005723648
+C56:4 TAG,0.0048032203
+proline,0.0
+proline betaine,0.0
+propionate,0.0
+pseudouridine,0.0
+pyrocatechol,0.0
+riboflavin,0.0
+3-methylxanthine,0.0
+4-guanidinobutanoic acid,0.0
+4-hydroxy-3-methylacetophenone,0.0
+4-hydroxybenzaldehyde,0.0
+uridine,0.0
+1-methylhistamine,0.0
+valine,0.0
+xanthine,0.0
+sorbitol,0.0
+spermidine,0.0
+sphingosine,0.0
+sphingosine-isomer1,0.0
+sphingosine-isomer2,0.0
+sphingosine-isomer3,0.0
+suberate,0.0
+tyrosine,0.0
+undecanedionate,0.0
+C50:2 TAG [M+NH4]+,0.0
+C50:3 TAG,0.0
+C50:3 TAG [M+NH4]+,0.0
+C50:4 TAG,0.0
+C50:4 TAG [M+NH4]+,0.0
+C51:0 TAG,0.0
+C51:1 TAG [M+NH4]+,0.0
+C51:2 TAG,0.0
+C51:2 TAG [M+NH4]+,0.0
+17-methylstearate,0.0
+C52:1 TAG [M+NH4]+,0.0
+C52:2 TAG [M+NH4]+,0.0
+C52:3 TAG,0.0
+C52:3 TAG [M+NH4]+,0.0
+C52:4 TAG,0.0
+C52:4 TAG [M+NH4]+,0.0
+C52:5 TAG,0.0
+C52:6 TAG,0.0
+C52:6 TAG [M+NH4]+,0.0
+C53:2 TAG [M+NH4]+,0.0
+C53:3 TAG,0.0
+C53:3 TAG [M+NH4]+,0.0
+C54:2 TAG,0.0
+C54:2 TAG [M+NH4]+,0.0
+C54:3 TAG,0.0
+C54:4 TAG,0.0
+C54:4 TAG [M+NH4]+,0.0
+C54:5 TAG [M+NH4]+,0.0
+C54:6 TAG [M+NH4]+,0.0
+C55:2 TAG,0.0
+C55:3 TAG,0.0
+C56:1 TAG,0.0
+C56:2 TAG,0.0
+C56:3 TAG,0.0
+C56:3 TAG [M+NH4]+,0.0
+C34:0 DAG,0.0
+C34:1 DAG,0.0
+C34:1 DAG [M+NH4]+,0.0
+C34:1 PC,0.0
+C34:2 DAG,0.0
+C34:2 DAG [M+NH4]+,0.0
+C34:2 PC,0.0
+C34:3 DAG [M+NH4]+,0.0
+C51:3 TAG [M+NH4]+,0.0
+C56:4 TAG [M+NH4]+,0.0
+C56:6 TAG,0.0
+N-acetylhistamine,0.0
+N-alpha-acetylarginine,0.0
+N-carbamoyl-beta-alanine,0.0
+N1-acetylspermidine,0.0
+N1-acetylspermine,0.0
+N1_N12-diacetylspermine,0.0
+N2_N2-dimethylguanosine,0.0
+N6-acetyllysine,0.0
+N6_N6-dimethyllysine,0.0
+N6_N6_N6-trimethyllysine,0.0
+NMMA,0.0
+acetylcholine,0.0
+adenine,0.0
+adenosine,0.0
+C24:0 Ceramide (d18:1),0.0
+C3 carnitine,0.0
+C3-DC-CH3 carnitine,0.0
+C32:0 PC,0.0
+C32:0 PE,0.0
+C32:1 DAG,0.0
+C32:1 DAG [M+NH4]+,0.0
+C32:1 PC,0.0
+agmatine,0.0
+C50:0 TAG,0.0
+C50:1 TAG,0.0
+C50:1 TAG [M+NH4]+,0.0
+C36:1 DAG,0.0
+C36:1 DAG [M+NH4]+,0.0
+C36:1 PC,0.0
+C36:1 PC plasmalogen,0.0
+C36:2 DAG,0.0
+C36:2 DAG [M+NH4]+,0.0
+C36:2 PC,0.0
+C36:3 DAG,0.0
+C36:3 DAG [M+NH4]+,0.0
+C36:3 PC,0.0
+C36:4 PC-A,0.0
+C50:2 TAG,0.0
+alanylalanine,0.0
+alpha-glycerophosphate,0.0
+alpha-glycerophosphocholine,0.0
+alpha-ketoisovalerate,0.0
+alpha-linolenate,0.0
+arachidate,0.0
+arachidonate,0.0
+arginine,0.0
+aspartate,0.0
+atenolol,0.0
+azelate,0.0
+betaine,0.0
+bilirubin,0.0
+butyrate,0.0
+butyrobetaine,0.0
+cadaverine,0.0
+caprate,0.0
+C20:4 carnitine,0.0
+C20:5 CE [M+NH4]+,0.0
+C22:0 LPE,0.0
+C22:0 SM,0.0
+C22:4 CE,0.0
+C22:4 CE [M+NH4]+,0.0
+C22:5 CE,0.0
+C22:5 CE [M+NH4]+,0.0
+C22:6 CE,0.0
+C22:6 CE [M+NH4]+,0.0
+caprylate,0.0
+carnitine,0.0
+carnosol_isomer,0.0
+chenodeoxycholate,0.0
+cholesterol,0.0
+citrulline,0.0
+corticosterone,0.0
+cortisol,0.0
+creatinine,0.0
+cytidine,0.0
+diacetylspermine,0.0
+dodecanoate,0.0
+eicosadienoate,0.0
+eicosanedioate,0.0
+eicosatrienoate,0.0
+C18:3 CE,0.0
+C18:3 CE [M+NH4]+,0.0
+C20:0 LPE,0.0
+C20:0 SM,0.0
+C20:3 CE,0.0
+C20:3 LPC,0.0
+C20:4 CE [M+NH4]+,0.0
+C20:4 LPC,0.0
+eicosenoate,0.0
+erythronate,0.0
+fucose,0.0
+fumarate/maleate,0.0
+glutamate,0.0
+glutamine,0.0
+glycine,0.0
+glycochenodeoxycholate,0.0
+glycocholate,0.0
+glycodeoxycholate,0.0
+glycolithocholate,0.0
+guanine,0.0
+heptadecanoate,0.0
+hexadecanedioate,0.0
+histamine,0.0
+histidine,0.0
+histidinol,0.0
+C44:0 TAG [M+NH4]+,0.0
+C44:1 TAG,0.0
+C44:2 TAG [M+NH4]+,0.0
+C45:0 TAG,0.0
+C46:0 TAG [M+NH4]+,0.0
+C46:1 TAG,0.0
+C46:2 TAG,0.0
+C48:0 TAG,0.0
+C48:0 TAG [M+NH4]+,0.0
+C48:1 TAG [M+NH4]+,0.0
+C48:2 TAG,0.0
+C48:2 TAG [M+NH4]+,0.0
+C48:3 TAG,0.0
+homocitrulline,0.0
+C18:0 LPE-B,0.0
+C18:0 MAG,0.0
+C18:0 MAG [M+NH4]+,0.0
+C18:0 SM,0.0
+C18:1 CE,0.0
+C18:1 CE [M+NH4]+,0.0
+C18:1 LPC,0.0
+C18:2 CE,0.0
+C18:2 LPC,0.0
+hydroxyproline,0.0
+hypoxanthine,0.0
+isoleucine,0.0
+lactate,0.0
+leucine,0.0
+linoleate,0.0
+2-deoxyadenosine,0.0
+lysine,0.0
+malate,0.0
+malonate,0.0
+methionine sulfoxide,0.0
+myristate,0.0
+nonadecanoate,0.0
+C16:0 LPC,0.0
+C16:0 LPE,0.0
+C16:0 SM,0.0
+C16:1 CE,0.0
+C16:1 CE [M+NH4]+,0.0
+C16:1 LPC,0.0
+C16:1 LPC plasmalogen,0.0
+C16:1 LPE,0.0
+C16:1 MAG [M+NH4]+,0.0
+C18 carnitine,0.0
+C18:0 LPC,0.0
+C18:0 LPE,0.0
+oleate,0.0
+olmesartan,0.0
+ornithine,0.0
+oxalate,0.0
+oxymetazoline,0.0
+palmitoylethanolamide,0.0
+7-methylguanine,0.0
+8-hydroxy-deoxyguanosine,0.0
+C14 carnitine,0.0
+C14:0 LPC,0.0
+C14:1 carnitine,0.0
+C16:0 CE,0.0
+C16:0 CE [M+NH4]+,0.0
+phenylalanine,0.0
+taurochenodeoxycholate,0.0
+taurocholate,0.0
+taurodeoxycholate,0.0
+2-deoxycytidine,0.0
+2-hydroxy-3-methylpentanoate,0.0
+2-hydroxyglutarate,0.0
+2-hydroxyhexadecanoate,0.0
+2^-O-methyladenosine,0.0
+3-hydroxydecanoate,0.0
+3-hydroxymethylglutarate,0.0
+succinate,0.0
+tartarate,0.0
+tauro-alpha-muricholate/tauro-beta-muricholate,0.0
+5-aminolevulinic acid,0.0
+sebacate,0.0
+serotonin,0.0
+shikimate,0.0
+piperine,0.0
+porphobilinogen,0.0
+taurolithocholate,0.0
+theophylline,0.0
+threonine,0.0
+thymine,0.0
+trimethylamine-N-oxide,0.0
+C38:2 PC,0.0
+C38:4 DAG [M+NH4]+,0.0
+C38:5 DAG,0.0
+C42:0 TAG,0.0
+C42:0 TAG [M+NH4]+,0.0
+C44:0 TAG,0.0
+phytanate,0.0
+phytosphingosine,0.0
+pipecolic acid,0.0
+xylose,0.0

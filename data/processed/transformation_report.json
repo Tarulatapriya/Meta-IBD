@@ -1,0 +1,10 @@
+{
+    "initial_metabolites": 600,
+    "deduplicated_metabolites": 535,
+    "metabolites_removed_missing_threshold": 56,
+    "final_metabolites": 479,
+    "missing_threshold_used": 0.3,
+    "imputation_method": "half-minimum",
+    "transformation": "log2",
+    "scaling": "standard_scaler (Z-score)"
+}
