@@ -1,4 +1,3 @@
-import React from 'react';
 import { Activity, Beaker, Network, FileText, ArrowRight } from 'lucide-react';
 
 export const LandingPage = ({ setCurrentView }: { setCurrentView: (view: string) => void }) => {

@@ -1,4 +1,3 @@
-import React from 'react';
 import { 
   ShapSummaryChart, FeatureImportanceChart, PathwayNetworkChart, 
   PathwayImpactChart, MicrobiomeNetworkChart, LongitudinalChart, 
@@ -6,7 +5,27 @@ import {
 } from '../DashboardCharts';
 import { FileText } from 'lucide-react';
 
-export const OverviewView = ({ data }) => (
+export interface DashboardData {
+  total_samples: number;
+  total_features: number;
+  sig_count: number;
+  best_auc?: number;
+  radar: { indicator: any[], series: any[] };
+  longitudinal: { timepoints: any[], series: any[] };
+  circos: { nodes: any[], links: any[] };
+  diff_results: { metabolite: string, log2fc: number, p_val: number }[];
+  top_features: string[];
+  microbiomeNetwork: { nodes: any[], links: any[] };
+  ml_models: { name: string, accuracy: number, precision: number, recall: number, f1: number, auc: number }[];
+  best_model: string;
+  featureImportance: any[];
+  shapSummary: any[];
+  pathwayImpact: any[];
+  pathwayNetwork: { nodes: any[], links: any[] };
+  sankey: { nodes: any[], links: any[] };
+}
+
+export const OverviewView = ({ data }: { data: DashboardData }) => (
   <div>
     <h2 className="section-title">Analysis Overview</h2>
     <p className="section-subtitle">Summary metrics and dataset statistics.</p>
@@ -37,7 +56,7 @@ export const OverviewView = ({ data }) => (
   </div>
 );
 
-export const PCAView = ({ data }) => (
+export const PCAView = ({ data }: { data: DashboardData }) => (
   <div>
     <h2 className="section-title">PCA & Clustering</h2>
     <p className="section-subtitle">Exploratory data analysis of metabolic profiles.</p>
@@ -67,7 +86,7 @@ export const PCAView = ({ data }) => (
   </div>
 );
 
-export const DifferentialView = ({ data }) => (
+export const DifferentialView = ({ data }: { data: DashboardData }) => (
   <div>
     <h2 className="section-title">Differential Analysis</h2>
     <p className="section-subtitle">Significantly altered metabolites between groups.</p>
@@ -129,12 +148,12 @@ export const DifferentialView = ({ data }) => (
   </div>
 );
 
-export const BiomarkerView = ({ data }) => (
+export const BiomarkerView = ({ data }: { data: DashboardData }) => (
   <div>
     <h2 className="section-title">Biomarker Candidates</h2>
     <p className="section-subtitle">Top features ranked by predictive importance.</p>
     <div className="grid grid-cols-3 mb-6">
-      {data && data.top_features.map((f, i) => (
+      {data && data.top_features.map((f: string, i: number) => (
         <div key={i} className="card" style={{ borderTop: i === 0 ? '4px solid var(--accent-primary)' : '' }}>
           <div className="flex justify-between items-center mb-4">
             <div className="badge badge-primary">Rank #{i + 1}</div>
@@ -166,7 +185,7 @@ export const BiomarkerView = ({ data }) => (
   </div>
 );
 
-export const MLView = ({ data }) => (
+export const MLView = ({ data }: { data: DashboardData }) => (
   <div>
     <h2 className="section-title">Machine Learning Models</h2>
     <p className="section-subtitle">Comparison of classification performance.</p>
@@ -191,7 +210,7 @@ export const MLView = ({ data }) => (
   </div>
 );
 
-export const ExplainableView = ({ data }) => (
+export const ExplainableView = ({ data }: { data: DashboardData }) => (
   <div>
     <h2 className="section-title">Why did the model make this prediction?</h2>
     <p className="section-subtitle">Explainable AI (SHAP) feature attributions.</p>
@@ -222,7 +241,7 @@ export const ExplainableView = ({ data }) => (
   </div>
 );
 
-export const PathwayView = ({ data }) => (
+export const PathwayView = ({ data }: { data: DashboardData }) => (
   <div>
     <h2 className="section-title">Pathway Analysis</h2>
     <p className="section-subtitle">Biological interpretation and networks.</p>
