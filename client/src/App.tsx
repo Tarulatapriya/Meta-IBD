@@ -27,7 +27,7 @@ function App() {
 
   const checkStatus = async () => {
     try {
-      const res = await fetch('http://127.0.0.1:8000/api/status')
+      const res = await fetch('/api/status')
       if (res.ok) {
         const data = await res.json()
         if (data.dataset && data.dataset !== "None") {
@@ -43,7 +43,7 @@ function App() {
 
   const fetchDashboardData = async () => {
     try {
-      const res = await fetch('http://127.0.0.1:8000/api/dashboard')
+      const res = await fetch('/api/dashboard')
       if (res.ok) {
         setDashboardData(await res.json())
       }

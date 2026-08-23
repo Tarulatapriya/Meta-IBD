@@ -296,7 +296,7 @@ export const ReportView = () => (
       </p>
       <button 
         className="btn btn-primary btn-lg" 
-        onClick={() => window.open('http://127.0.0.1:8000/api/report', '_blank')}
+        onClick={() => window.open('/api/report', '_blank')}
       >
         View & Download PDF
       </button>
