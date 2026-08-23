@@ -25,8 +25,8 @@ app.add_middleware(
     allow_headers=["*"],
 )
 
-DATA_DIR = os.path.join(os.path.dirname(os.path.dirname(__file__)), 'data', 'processed')
-RESULTS_DIR = os.path.join(os.path.dirname(os.path.dirname(__file__)), 'results', 'tables')
+DATA_DIR = "/tmp/data/processed"
+RESULTS_DIR = "/tmp/results/tables"
 UPLOADED_DATASET_PATH = os.path.join(DATA_DIR, "uploaded_dataset.csv")
 
 current_analysis = {
