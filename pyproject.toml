@@ -1,0 +1,18 @@
+[project]
+name = "meta-ibd"
+version = "0.1.0"
+description = "Meta-IBD API"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "fastapi",
+    "fpdf2",
+    "numpy",
+    "pandas",
+    "python-multipart",
+    "scikit-learn",
+    "scipy",
+    "shap",
+    "uvicorn[standard]",
+    "xgboost"
+]
